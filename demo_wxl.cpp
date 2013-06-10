@@ -28,7 +28,7 @@ namespace model_paras
      const double diam = 20;      //(um)
 
   //---Calcium Pump---
-     const double Apump = 1.2e-10;      //(/cm2/s) : Yagi 2002 1.3e-9  //-----------是否要改成ms?
+     const double Apump = 1.2e-10;      //(/cm2/s) : Yagi 2002 1.3e-9  //-----------鏄惁瑕佹敼鎴恗s?
      const double Kpump = .5e-3;      //(mM) : Yagi 2002 .4e-3
    
   //---Sodium-Calcium Exchanger---
